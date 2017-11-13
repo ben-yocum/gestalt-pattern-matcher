@@ -1,0 +1,15 @@
+{
+  "name": "gestalt-pattern-matcher",
+  "version": "1.0.0",
+  "description": "Finds the similarity between strings and represents it as a number.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benjamin Yocum",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "loglevel": "^1.5.1",
+    "progress": "^2.0.0"
+  }
+}
